@@ -1,1 +1,9 @@
-
+Problem Statement:
+This program is a scenario in which there is a zombie virus that is going around the population.
+There is a world with both zombies and survivors. The goal of the program is to generate a random
+number
+of zombies and survivors. There are different types of each- Strong(Tank)/weak(Common infected)
+zombies and Stronger to weaker(Soldier/teacher/child) survivors.
+The program is to have these &quot;people&quot; interact with one another and use their characteristics to
+replicate a &quot;survival
+of the fittest&quot; scenario. The program then finishes when either only zombies or only survivors are left.
